@@ -1,5 +1,7 @@
 # Super-Market-Management-System
 
+Project Contribution
+This is an academic team project developed as part of our university coursework. My contributions included requirements analysis, workflow design, user stories and acceptance criteria, API validation, testing support, and coordination across frontend/backend tasks.
 Supermarket Management System is a full-stack web application for managing products, user accounts, shopping cart flow, and customer orders.
 
 It includes:
